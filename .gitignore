@@ -1,0 +1,9 @@
+# Ignore Excel outputs
+*.xlsx
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
